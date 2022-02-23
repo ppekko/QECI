@@ -15,6 +15,10 @@
 #include <SDL2/SDL.h>
 #include <glad/glad.h>
 
+#include "imgui.h"
+#include "imgui_impl_sdl.h"
+#include "imgui_impl_opengl3.h"
+
 #define WinWidth 640
 #define WinHeight 480
 
