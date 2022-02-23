@@ -1,0 +1,6 @@
+[submodule "SmallGlitter/Vendor/glad"]
+	path = SmallGlitter/Vendor/glad
+	url = https://github.com/Dav1dde/glad.git
+[submodule "SmallGlitter/Vendor/glm"]
+	path = SmallGlitter/Vendor/glm
+	url = https://github.com/g-truc/glm.git
