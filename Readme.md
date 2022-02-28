@@ -5,7 +5,7 @@
 
 This project allows you to quickly get started with making a project with SDL and ImGui. It will automatically fetch all the required files for ImGui straight from the GitHub repo. This originally started life as a fork of SmallGlitter for ImGui
 
-Like LxDemOWin, I won't maintain this much as I wanted to quickly implement something.
+Like LxDemOWin, I won't maintain this much as I made this to quickly implement something.
 
 Windows support is non-existence and I don't plan on supporting it ***however*** you can use WSL to run `fetchImGui.sh` to get the right ImGui files downloaded and then continue as normal.
 
