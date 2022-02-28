@@ -28,9 +28,6 @@ mkdir build
 cd build
 cmake -G "Xcode" ..
 #(build in xcode)
-..
-...
-#(build inside of Visual Studio)
 ```
 
 
