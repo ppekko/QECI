@@ -12,12 +12,12 @@ echo
 
 if [[ -d "QECI/ImGui/Sources/" ]]
 then
-    rm -r QECI/ImGui/Sources/
+    exit
 fi
 
 if [[ -d "QECI/ImGui/Headers/" ]]
 then
-    rm -r QECI/ImGui/Headers/
+    exit
 fi
 
 echo "Fetching ImGui Sources..."

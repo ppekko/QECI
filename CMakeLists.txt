@@ -19,16 +19,16 @@ else()
 endif()
 
 include_directories(QECI/Headers/
-
+                    QECI/ImGui/Headers/
                     QECI/Vendor/glad/
                     ${SDL2_INCLUDE_DIR}
                     ${SDL2_IMAGE_INCLUDE_DIR})
 
 
 
-file(GLOB VENDORS_SOURCES QECI/Vendor/glad/src/glad.c)
-file(GLOB PROJECT_HEADERS QECI/ImGui/Headers/*.h + QECI/Headers/*.hpp)
-file(GLOB PROJECT_SOURCES QECI/ImGui/Sources/*.cpp + QECI/Sources/*.cpp)
+file(GLOB VENDORS_SOURCES QECI/Vendor/glad/src/glad.c + QECI/ImGui/Sources/*)
+file(GLOB PROJECT_HEADERS QECI/Headers/*.hpp)
+file(GLOB PROJECT_SOURCES QECI/Sources/*.cpp)
 file(GLOB PROJECT_CONFIGS CMakeLists.txt
                           Readme.md
                          .gitattributes
