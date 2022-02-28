@@ -7,7 +7,7 @@ This project allows you to quickly get started with making a project with SDL an
 
 Like LxDemOWin, I won't maintain this much as I made this to quickly implement something.
 
-Windows support is non-existence and I don't plan on supporting it ***however*** you can use WSL to run `fetchImGui.sh` to get the right ImGui files downloaded and then continue as normal.
+Windows support is non-existent and I don't plan on supporting it ***however*** you can use WSL to run `fetchImGui.sh` to get the right ImGui files downloaded and then continue as normal.
 
 <p align="center">
 <img src="./brand/icon.png" alt="drawing" width="200" height="200"/>
