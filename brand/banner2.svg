@@ -28,7 +28,7 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.25"
-     inkscape:cx="1432"
+     inkscape:cx="1348"
      inkscape:cy="734"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
@@ -213,7 +213,7 @@
        inkscape:export-xdpi="108.37333"
        inkscape:export-ydpi="108.37333" />
     <rect
-       style="fill:url(#linearGradient42713);fill-opacity:1.0;stroke:#ffffff;stroke-width:3.70416;stroke-linecap:round;paint-order:markers fill stroke"
+       style="fill:url(#linearGradient42713);fill-opacity:1;stroke:#ffffff;stroke-width:3.70416;stroke-linecap:round;paint-order:markers fill stroke"
        id="rect846-3"
        width="96.295998"
        height="96.295837"
@@ -232,9 +232,9 @@
        inkscape:export-ydpi="108.37333"><tspan
          x="427.66211"
          y="252.78622"
-         id="tspan42969"><tspan
+         id="tspan2756"><tspan
            style="font-family:'PF Arma Five';-inkscape-font-specification:'PF Arma Five';fill:#ffffff"
-           id="tspan42967">QECI</tspan></tspan></text>
+           id="tspan2754">QECI</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-89.610514,146.71817)"
@@ -247,21 +247,21 @@
        y="0"><tspan
          x="427.66211"
          y="210.33168"
-         id="tspan42973"><tspan
+         id="tspan2760"><tspan
            style="font-family:'PF Arma Five';-inkscape-font-specification:'PF Arma Five';text-align:justify"
-           id="tspan42971">
+           id="tspan2758">
 </tspan></tspan><tspan
          x="427.66211"
          y="372.01492"
-         id="tspan42977"><tspan
+         id="tspan2764"><tspan
            style="font-family:'PF Arma Five';-inkscape-font-specification:'PF Arma Five';text-align:justify"
-           id="tspan42975">QE
+           id="tspan2762">QE
 </tspan></tspan><tspan
          x="427.66211"
          y="533.69816"
-         id="tspan42981"><tspan
+         id="tspan2768"><tspan
            style="font-family:'PF Arma Five';-inkscape-font-specification:'PF Arma Five';text-align:justify"
-           id="tspan42979">CI</tspan></tspan></text>
+           id="tspan2766">CI</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-93.152265,41.759403)"
@@ -272,27 +272,27 @@
        inkscape:export-ydpi="108.37333"><tspan
          x="427.66211"
          y="124.05895"
-         id="tspan42985"><tspan
+         id="tspan2772"><tspan
            style="font-family:'PF Arma Five';-inkscape-font-specification:'PF Arma Five';fill:#ffffff"
-           id="tspan42983">quick Easy crossplatform opengl
+           id="tspan2770">quick Easy crossplatform ImGui
 </tspan></tspan><tspan
          x="427.66211"
          y="191.7976"
-         id="tspan42989"><tspan
+         id="tspan2776"><tspan
            style="font-family:'PF Arma Five';-inkscape-font-specification:'PF Arma Five';fill:#ffffff"
-           id="tspan42987">
+           id="tspan2774">
 </tspan></tspan><tspan
          x="427.66211"
          y="259.53624"
-         id="tspan42993"><tspan
+         id="tspan2780"><tspan
            style="font-family:'PF Arma Five';-inkscape-font-specification:'PF Arma Five';fill:#ffffff"
-           id="tspan42991">
+           id="tspan2778">
 </tspan></tspan><tspan
          x="427.66211"
          y="327.27489"
-         id="tspan42997"><tspan
+         id="tspan2784"><tspan
            style="font-family:'PF Arma Five';-inkscape-font-specification:'PF Arma Five';fill:#ffffff"
-           id="tspan42995">licensed under MIT</tspan></tspan></text>
+           id="tspan2782">licensed under MIT</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,16.847735,63.309404)"
@@ -303,15 +303,15 @@
        inkscape:export-ydpi="108.37333"><tspan
          x="427.66211"
          y="132.05895"
-         id="tspan42999">
+         id="tspan2786">
 </tspan><tspan
          x="427.66211"
          y="212.05895"
-         id="tspan43001">
+         id="tspan2788">
 </tspan><tspan
          x="427.66211"
          y="292.05895"
-         id="tspan43003">                                        By Pipewarp </tspan></text>
+         id="tspan2790">                                        By Pipewarp </tspan></text>
     <rect
        style="fill:none;fill-opacity:0;stroke:#ffffff;stroke-width:3.70416;stroke-linecap:round;paint-order:markers fill stroke"
        id="rect846-8"
