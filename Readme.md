@@ -17,7 +17,7 @@ Windows support is non-existent and I don't plan on supporting it ***however*** 
 ```bash
 # Linux
 git clone --recursive https://github.com/pipewarp/QECI
-cd Small-Glitter
+cd QECI
 mkdir build
 cd build
 cmake ..
@@ -25,7 +25,7 @@ make
 
 # Mac OSX
 git clone --recursive https://github.com/pipewarp/QECI
-cd Small-Glitter
+cd QECI
 mkdir build
 cd build
 cmake -G "Xcode" ..
