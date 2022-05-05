@@ -7,7 +7,7 @@
    viewBox="0 0 500 150"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
    sodipodi:docname="banner2.svg"
    inkscape:export-filename="/run/media/yaz/Very Cool Drive/Demo/IPTB/Yellow-Water/logo-assets/banner.png"
    inkscape:export-xdpi="180.00133"
@@ -28,12 +28,12 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.25"
-     inkscape:cx="1348"
-     inkscape:cy="734"
+     inkscape:cx="278"
+     inkscape:cy="682"
      inkscape:window-width="1920"
-     inkscape:window-height="1009"
-     inkscape:window-x="1360"
-     inkscape:window-y="42"
+     inkscape:window-height="1007"
+     inkscape:window-x="1920"
+     inkscape:window-y="40"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
      inkscape:snap-bbox="true"
@@ -182,20 +182,20 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient41856"
-       id="linearGradient41858"
-       x1="1.852085"
-       y1="1.852085"
-       x2="498.14807"
-       y2="148.14792"
+       id="linearGradient880"
+       x1="427.66211"
+       y1="390.35654"
+       x2="627.66211"
+       y2="390.35654"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient41856"
-       id="linearGradient42713"
-       x1="5.0067902e-06"
-       y1="250"
-       x2="100.00016"
-       y2="250"
+       id="linearGradient978"
+       x1="427.66211"
+       y1="204.78622"
+       x2="787.66211"
+       y2="204.78622"
        gradientUnits="userSpaceOnUse" />
   </defs>
   <g
@@ -203,115 +203,115 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="fill:url(#linearGradient41858);fill-opacity:1;stroke:#ffffff;stroke-width:3.70416;stroke-linecap:round;paint-order:markers fill stroke"
+       style="fill:#202020;fill-opacity:1;stroke:#ffffff;stroke-width:3.70416;stroke-linecap:round;paint-order:markers fill stroke"
        id="rect846"
        width="496.29599"
        height="146.29584"
        x="1.852085"
        y="1.852085"
-       inkscape:export-filename="/run/media/yaz/Very Cool Drive/Demo/QECI/brand/banner.png"
+       inkscape:export-filename="/run/media/yaz/Very Cool Drive/Demo/brn/br2/QECI/brand/banner.png"
        inkscape:export-xdpi="108.37333"
        inkscape:export-ydpi="108.37333" />
     <rect
-       style="fill:url(#linearGradient42713);fill-opacity:1;stroke:#ffffff;stroke-width:3.70416;stroke-linecap:round;paint-order:markers fill stroke"
+       style="fill:#202020;fill-opacity:1;stroke:#ffffff;stroke-width:3.70416;stroke-linecap:round;paint-order:markers fill stroke"
        id="rect846-3"
        width="96.295998"
        height="96.295837"
        x="1.852085"
        y="201.85208"
-       inkscape:export-filename="/run/media/yaz/Very Cool Drive/Demo/QECI/brand/icon.png"
+       inkscape:export-filename="/run/media/yaz/Very Cool Drive/Demo/brn/br2/QECI/brand/icon.png"
        inkscape:export-xdpi="180.00133"
        inkscape:export-ydpi="180.00133" />
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-93.152265,-15.133021)"
        id="text9140"
-       style="font-style:normal;font-weight:normal;font-size:192px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect9142);fill:#000000;fill-opacity:1;stroke:none"
-       inkscape:export-filename="/run/media/yaz/Very Cool Drive/Demo/QECI/brand/banner.png"
+       style="font-style:normal;font-weight:normal;font-size:192px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect9142);fill:url(#linearGradient978);fill-opacity:1;stroke:none"
+       inkscape:export-filename="/run/media/yaz/Very Cool Drive/Demo/brn/br2/QECI/brand/banner.png"
        inkscape:export-xdpi="108.37333"
        inkscape:export-ydpi="108.37333"><tspan
          x="427.66211"
          y="252.78622"
-         id="tspan2756"><tspan
-           style="font-family:'PF Arma Five';-inkscape-font-specification:'PF Arma Five';fill:#ffffff"
-           id="tspan2754">QECI</tspan></tspan></text>
+         id="tspan5274"><tspan
+           style="font-family:'PF Arma Five';-inkscape-font-specification:'PF Arma Five'"
+           id="tspan5272">QECI</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-89.610514,146.71817)"
        id="text9140-6"
-       style="font-style:normal;font-weight:normal;font-size:200px;line-height:0.75;font-family:sans-serif;white-space:pre;shape-inside:url(#rect9142-5);fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
-       inkscape:export-filename="/run/media/yaz/Very Cool Drive/Demo/QECI/brand/icon.png"
+       style="font-style:normal;font-weight:normal;font-size:200px;line-height:0.75;font-family:sans-serif;white-space:pre;shape-inside:url(#rect9142-5);fill:url(#linearGradient880);fill-opacity:1;stroke:none;stroke-opacity:1"
+       inkscape:export-filename="/run/media/yaz/Very Cool Drive/Demo/brn/br2/QECI/brand/icon.png"
        inkscape:export-xdpi="180.00133"
        inkscape:export-ydpi="180.00133"
        x="486.16583"
        y="0"><tspan
          x="427.66211"
          y="210.33168"
-         id="tspan2760"><tspan
+         id="tspan5278"><tspan
            style="font-family:'PF Arma Five';-inkscape-font-specification:'PF Arma Five';text-align:justify"
-           id="tspan2758">
+           id="tspan5276">
 </tspan></tspan><tspan
          x="427.66211"
          y="372.01492"
-         id="tspan2764"><tspan
+         id="tspan5282"><tspan
            style="font-family:'PF Arma Five';-inkscape-font-specification:'PF Arma Five';text-align:justify"
-           id="tspan2762">QE
+           id="tspan5280">QE
 </tspan></tspan><tspan
          x="427.66211"
          y="533.69816"
-         id="tspan2768"><tspan
+         id="tspan5286"><tspan
            style="font-family:'PF Arma Five';-inkscape-font-specification:'PF Arma Five';text-align:justify"
-           id="tspan2766">CI</tspan></tspan></text>
+           id="tspan5284">CI</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-93.152265,41.759403)"
        id="text9140-7"
        style="font-style:normal;font-weight:normal;font-size:64px;line-height:1;font-family:sans-serif;white-space:pre;shape-inside:url(#rect9142-4);fill:#000000;fill-opacity:1;stroke:none"
-       inkscape:export-filename="/run/media/yaz/Very Cool Drive/Demo/QECI/brand/banner.png"
+       inkscape:export-filename="/run/media/yaz/Very Cool Drive/Demo/brn/br2/QECI/brand/banner.png"
        inkscape:export-xdpi="108.37333"
        inkscape:export-ydpi="108.37333"><tspan
          x="427.66211"
          y="124.05895"
-         id="tspan2772"><tspan
+         id="tspan5290"><tspan
            style="font-family:'PF Arma Five';-inkscape-font-specification:'PF Arma Five';fill:#ffffff"
-           id="tspan2770">quick Easy crossplatform ImGui
+           id="tspan5288">quick Easy crossplatform ImGui
 </tspan></tspan><tspan
          x="427.66211"
          y="191.7976"
-         id="tspan2776"><tspan
+         id="tspan5294"><tspan
            style="font-family:'PF Arma Five';-inkscape-font-specification:'PF Arma Five';fill:#ffffff"
-           id="tspan2774">
+           id="tspan5292">
 </tspan></tspan><tspan
          x="427.66211"
          y="259.53624"
-         id="tspan2780"><tspan
+         id="tspan5298"><tspan
            style="font-family:'PF Arma Five';-inkscape-font-specification:'PF Arma Five';fill:#ffffff"
-           id="tspan2778">
+           id="tspan5296">
 </tspan></tspan><tspan
          x="427.66211"
          y="327.27489"
-         id="tspan2784"><tspan
+         id="tspan5302"><tspan
            style="font-family:'PF Arma Five';-inkscape-font-specification:'PF Arma Five';fill:#ffffff"
-           id="tspan2782">licensed under MIT</tspan></tspan></text>
+           id="tspan5300">licensed under MIT</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,16.847735,63.309404)"
        id="text9140-7-7"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;line-height:1.25;font-family:'PF Arma Five';-inkscape-font-specification:'PF Arma Five';white-space:pre;shape-inside:url(#rect9142-4-0);fill:#ffffff;fill-opacity:1;stroke:none"
-       inkscape:export-filename="/run/media/yaz/Very Cool Drive/Demo/QECI/brand/banner.png"
+       inkscape:export-filename="/run/media/yaz/Very Cool Drive/Demo/brn/br2/QECI/brand/banner.png"
        inkscape:export-xdpi="108.37333"
        inkscape:export-ydpi="108.37333"><tspan
          x="427.66211"
          y="132.05895"
-         id="tspan2786">
+         id="tspan5304">
 </tspan><tspan
          x="427.66211"
          y="212.05895"
-         id="tspan2788">
+         id="tspan5306">
 </tspan><tspan
          x="427.66211"
          y="292.05895"
-         id="tspan2790">                                        By Pipewarp </tspan></text>
+         id="tspan5308">                                        By kbx </tspan></text>
     <rect
        style="fill:none;fill-opacity:0;stroke:#ffffff;stroke-width:3.70416;stroke-linecap:round;paint-order:markers fill stroke"
        id="rect846-8"
@@ -319,7 +319,7 @@
        height="146.29584"
        x="1.852085"
        y="1.852075"
-       inkscape:export-filename="/run/media/yaz/Very Cool Drive/Demo/QECI/brand/banner.png"
+       inkscape:export-filename="/run/media/yaz/Very Cool Drive/Demo/brn/br2/QECI/brand/banner.png"
        inkscape:export-xdpi="108.37333"
        inkscape:export-ydpi="108.37333" />
   </g>

@@ -16,7 +16,7 @@ Windows support is non-existent and I don't plan on supporting it ***however*** 
 
 ```bash
 # Linux
-git clone --recursive https://github.com/pipewarp/QECI
+git clone --recursive https://github.com/kb-x/QECI
 cd QECI
 mkdir build
 cd build
@@ -24,7 +24,7 @@ cmake ..
 make
 
 # Mac OSX
-git clone --recursive https://github.com/pipewarp/QECI
+git clone --recursive https://github.com/kb-x/QECI
 cd QECI
 mkdir build
 cd build
@@ -36,7 +36,7 @@ cmake -G "Xcode" ..
 ## License
 >The MIT License (MIT)
 
->Copyright (c) 2022 pipewarp
+>Copyright (c) 2022 kbx
 
 >Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 

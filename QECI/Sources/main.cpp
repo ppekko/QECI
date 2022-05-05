@@ -1,7 +1,7 @@
 //
 // >The MIT License (MIT)
 //
-// >Copyright (c) 2021 pipewarp
+// >Copyright (c) 2021 kbx
 //
 // >Permission is hereby granted, free of charge, to any person obtaining a copy
 // of this software and associated documentation files (the "Software"), to deal
@@ -21,7 +21,7 @@
 // OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 // SOFTWARE.
 //
-// Original Repo: https://github.com/pipewarp/QECI
+// Original Repo: https://github.com/kb-x/QECI
 //
 
 #include <SDL2/SDL.h>
