@@ -21,8 +21,7 @@ endif()
 include_directories(QECI/Headers/
                     QECI/ImGui/Headers/
                     QECI/Vendor/glad/
-                    ${SDL2_INCLUDE_DIR}
-                    ${SDL2_IMAGE_INCLUDE_DIR})
+                    ${SDL2_INCLUDE_DIR})
 
 
 
@@ -48,6 +47,5 @@ add_executable(${PROJECT_NAME} ${PROJECT_SOURCES} ${PROJECT_HEADERS}
 
 
 
-target_link_libraries(${PROJECT_NAME}  glad SDL2 -lm -lc
-                      ${GLFW_LIBRARIES} ${GLAD_LIBRARIES})
+target_link_libraries(${PROJECT_NAME}  glad SDL2 -lm -lc ${GLAD_LIBRARIES})
 

@@ -38,7 +38,7 @@ drawProgress 4 7
 wget --quiet https://raw.githubusercontent.com/ocornut/imgui/master/backends/imgui_impl_opengl3.cpp -P QECI/ImGui/Sources/
 drawProgress 5 7
 
-wget --quiet https://raw.githubusercontent.com/ocornut/imgui/master/backends/imgui_impl_sdl.cpp -P QECI/ImGui/Sources/
+wget --quiet https://raw.githubusercontent.com/ocornut/imgui/master/backends/imgui_impl_sdl2.cpp -P QECI/ImGui/Sources/
 drawProgress 6 7
 
 wget --quiet https://raw.githubusercontent.com/ocornut/imgui/master/imgui_demo.cpp -P QECI/ImGui/Sources/
@@ -72,7 +72,7 @@ drawProgress 7 9
 wget --quiet https://raw.githubusercontent.com/ocornut/imgui/master/backends/imgui_impl_opengl3.h -P QECI/ImGui/Headers/
 drawProgress 8 9
 
-wget --quiet https://raw.githubusercontent.com/ocornut/imgui/master/backends/imgui_impl_sdl.h -P QECI/ImGui/Headers/
+wget --quiet https://raw.githubusercontent.com/ocornut/imgui/master/backends/imgui_impl_sdl2.h -P QECI/ImGui/Headers/
 drawProgress 9 9
 
 echo "Headers Fetched."
